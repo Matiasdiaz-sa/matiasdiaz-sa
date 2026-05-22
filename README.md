@@ -15,8 +15,8 @@ Soy estudiante de la Tecnicatura en Desarrollo de Software en la UADE y actualme
 **Herramientas & Infraestructura:** TrueNAS | FastAPI | Spring Boot | Git/GitHub | Vercel | Render | Jira
 
 ### 🏆 Proyectos Destacados
-* [**Jarvis**](link-a-tu-repo): Asistente virtual de voz integrado con Gemini 1.5 Flash, automatización domótica (Tuya) y control local de PC, diseñado con latencia mínima y bajo consumo de CPU.
-* [**Pipeline de Análisis de Sentimiento**](link-a-tu-repo): Sistema impulsado por IA para procesar y analizar reseñas de productos.
+* [**Jarvis**](https://github.com/Matiasdiaz-sa/JARVIS): Asistente virtual de voz integrado con Gemini 1.5 Flash, automatización domótica (Tuya) y control local de PC, diseñado con latencia mínima y bajo consumo de CPU.
+* [**Pipeline de Análisis de Sentimiento**](https://github.com/Matiasdiaz-sa/IA-ANALISIS): Sistema impulsado por IA para procesar y analizar reseñas de productos.
 
 ### 📫 Cómo contactarme
 - **LinkedIn:** [Juan Matias Diaz](https://www.linkedin.com/in/juan-matias-diaz-3788a6317)
